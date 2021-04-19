@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class obstacles : MonoBehaviour
+public class obstacle : MonoBehaviour
 {
     private Rigidbody2D objRB;
     void Start()
